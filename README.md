@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square">
   <img src="https://img.shields.io/badge/made%20with-React-blue?style=flat-square&logo=react">
   <img src="https://img.shields.io/badge/styling-TailwindCSS-38b2ac?style=flat-square&logo=tailwind-css">
 </p>
@@ -18,16 +17,14 @@
 This project is a **frontend practice** landing page inspired by Nike's branding.  
 Think bold fonts, crisp layout, responsive grid, and some fun with Tailwind CSS.
 
-> I like building things that look good and feel smooth.  
-> This page? It's my playground. 🎨
 
 ---
 
 ## 🚀 Tech Stack
 
-- ⚛️ **React** (with Vite for blazing speed)
+- ⚛️ **React** 
 - 🎨 **Tailwind CSS**
-- 💡 JavaScript (because of course!)
+- 💡 JavaScript
 
 ---
 
