@@ -1,8 +1,39 @@
-# React + Vite
+<h1 align="center">👟 Nike Landing Page</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  A clean, responsive landing page inspired by Nike's sleek aesthetic.<br>
+  Built for practice, styled for impact.
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <img src="https://img.shields.io/badge/made%20with-React-blue?style=flat-square&logo=react">
+  <img src="https://img.shields.io/badge/styling-TailwindCSS-38b2ac?style=flat-square&logo=tailwind-css">
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🌟 About the Project
+
+This project is a **frontend practice** landing page inspired by Nike's branding.  
+Think bold fonts, crisp layout, responsive grid, and some fun with Tailwind CSS.
+
+
+---
+
+## 🚀 Tech Stack
+
+- ⚛️ **React** 
+- 🎨 **Tailwind CSS**
+- 💡 JavaScript
+
+---
+
+## 📦 Getting Started
+
+Clone the repo and get it running locally:
+
+```bash
+git clone https://github.com/lohita181/Nike-Landing-page.git
+cd Nike-Landing-page
+npm install
+npm run dev
